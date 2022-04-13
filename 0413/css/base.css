@@ -9,5 +9,5 @@ body{
   font-family: 'Anek Tamil', 'Noto Sans KR', sans-serif;
   font-size:12px;
   color:#333;
-  overflow-y:hidden /* 세로스크롤바 숨기기 */
+  overflow:hidden; /* 스크롤바 숨기기 */
 }
